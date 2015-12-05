@@ -114,3 +114,8 @@
   color: #264ec5;
 }
 
+.screenshot-thumb {
+  width:213px;
+  height: 378px;
+  margin-right: 2em;
+}
